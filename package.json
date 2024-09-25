@@ -1,0 +1,20 @@
+{
+  "name": "test-ts-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "ts-node index.ts"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "swagger-typescript-api": "^13.0.22",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.0"
+  }
+}
